@@ -1,0 +1,3 @@
+﻿  ASC.cpp
+C:\Users\YangYang\Desktop\C++\LQB_Contest\LQB_Contest\ASC.cpp(7,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LQB_Contest.vcxproj -> C:\Users\YangYang\Desktop\C++\LQB_Contest\x64\Debug\LQB_Contest.exe
